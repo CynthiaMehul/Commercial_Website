@@ -403,6 +403,8 @@ input:focus {
 
 ## OUTPUT
 
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/8c915734-ead8-4fb8-86b3-75af75f1da87" />
+
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
